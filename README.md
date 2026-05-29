@@ -1,3 +1,3 @@
-## Welcome to Git
-- This is coming from `dev-beckkk` branch
+## Hello Git
+
 - I'm adding this from `feature-branch`
